@@ -1,0 +1,15 @@
+{
+  "name": "@justice-os/digital-literacy-sim",
+  "version": "0.1.0",
+  "description": "Train users how to use justice tech — interactive tutorials and mock court flows",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "vitest",
+    "lint": "eslint src/"
+  },
+  "keywords": ["digital-literacy", "simulation", "court-training", "tutorials", "justice"],
+  "author": "Justice OS Contributors",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/dougdevitre/digital-literacy-sim" }
+}
